@@ -33,8 +33,8 @@ export function DestinationAndDateStep({
       </button>
     ) : (
       <button onClick={openGuestsInput} className="bg-lime-300 text-lime-950 rounded-lg px-5 py-2 font-medium flex items-center gap-2 hover:bg-lime-400">
-      Continuar
-      <ArrowRight className="size-5"/>
+        Continuar
+        <ArrowRight className="size-5"/>
       </button>
     )}
   </div>
